@@ -70,7 +70,7 @@ import static de.mrapp.android.util.DisplayUtil.getDisplayWidth;
  * @author Michael Rapp
  */
 public class MainActivity extends AppCompatActivity implements TabSwitcherListener {
-
+    System.out.println("Hello from Indra");
     /**
      * The state of tabs, which display list items in a list view.
      */
